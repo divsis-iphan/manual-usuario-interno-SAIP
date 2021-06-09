@@ -80,7 +80,7 @@ Ao selecionar Pessoa Física, deverão ser preenchidas as seguintes informaçõe
    Para pesquisar o seu endereço, insira o CEP correspondente e clique na lupa ao lado esquerdo do campo ou aperte a tecla **Tab** no seu teclado, o sistema vai pesquisar o endereço conforme o CEP informado. Caso o sistema não encontre os dados para o respectivo CEP, é permitido que seja inserido o endereço de forma manual.
    
 
-Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado, são de preenchimento obrigatório. Caso os campos não sejam preenchidos, o sistema apresenta uma mensagem informando da obrigatoriedade do preenchimento das informações, conforme exemplo abaixo:
+Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado são de preenchimento obrigatório. Caso os campos não sejam preenchidos, o sistema apresenta uma mensagem informando da obrigatoriedade do preenchimento das informações, conforme exemplo abaixo:
 
 .. image:: ../images/DadosComplementares-Usuario-Validacao-Campo.png
    :alt: Dados Complementares Usuario Validacao Campo
