@@ -25,7 +25,7 @@ Após ser apresentada a tela de login, clique na opção **Acessar com gov.br**.
 Informar Dados Complementares
 --------------------------------
 
-Após o seu login, utilizando a plataforma **gov.br** por se tratar do primeiro acesso ao SAIP, deverão ser complementadas algumas informações importantes para o sistema em dois passos.
+Após o seu login utilizando a plataforma **gov.br**, por se tratar do primeiro acesso ao SAIP, deverão ser complementadas algumas informações importantes para o sistema em dois passos.
 
 Usuário
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
