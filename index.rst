@@ -8,26 +8,42 @@ SAIP - Sistema de Avaliação de Impacto ao Patrimônio
 
 .. toctree::
    :maxdepth: 3
-   :caption: Primeiros Passos:
+   :caption: Dashboard:
 
-   login/primeiro-acesso
-   login/login
+   dashboard/dashboard
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Acompanhar Análise:
+     
+   acompanhar_analise/acompanhar_analise  
 
 .. toctree::
    :maxdepth: 2
-   :caption: FCA:
-
-   solicitacoes/minhas-solicitacoes-fca
-   solicitacoes/cadastrar-solicitacao-fca
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Mensageria:
-
-   mensagens/visualizar-mensagens
+   :caption: Analisar Solicitações:
+     
+   analisar_solicitacoes/analisar_solicitacoes
 
 .. toctree::
    :maxdepth: 2
-   :caption: Suas Informações:
+   :caption: Mensagens:
+     
+   mensagens/mensagens
 
-   dados/visualizar-meus-dados
+.. toctree::
+   :maxdepth: 2
+   :caption: Listar Solicitações:
+     
+   listar_solicitacoes/listar_solicitacoes
+  
+.. toctree::
+   :maxdepth: 2
+   :caption: Gerenciador:
+     
+   gerenciador/gerenciador
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Relatório de Indicadores:
+     
+   relatorio_indicadores/relatorio_indicadores
