@@ -7,31 +7,37 @@ SAIP - Sistema de Avaliação de Impacto ao Patrimônio
 ==================================================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
+   :caption: Login:
+
+   login/acesso
+
+.. toctree::
+   :maxdepth: 1
    :caption: Dashboard:
 
    dashboard/dashboard
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Acompanhar Análise:
      
    acompanhar_analise/acompanhar_analise  
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Analisar Solicitações:
      
    analisar_solicitacoes/analisar_solicitacoes
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Mensagens:
      
    mensagens/mensagens
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Listar Solicitações:
      
    listar_solicitacoes/listar_solicitacoes
@@ -40,10 +46,18 @@ SAIP - Sistema de Avaliação de Impacto ao Patrimônio
    :maxdepth: 2
    :caption: Gerenciador:
      
-   gerenciador/gerenciador
+   gerenciador/usuarios
+   gerenciador/setores
+   gerenciador/instalacoes
+   gerenciador/licencas_ambientais
+   gerenciador/secoes
+   gerenciador/tipologias
+   gerenciador/intervencoes
+   gerenciador/situacoes
+   gerenciador/destinatarios
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Relatório de Indicadores:
      
    relatorio_indicadores/relatorio_indicadores

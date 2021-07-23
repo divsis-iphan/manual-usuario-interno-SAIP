@@ -12,11 +12,10 @@ Para acessar, as solicitações para que possa atribuir e consolidar a análise 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise.png
    :alt: SAIP Interno Acompanhar Análise Menu Aberto
 
-
 Pesquisar Solicitação
 ------------------------
 
-Em **Pesquisar Solicitação**, na parte superior se encontram os filtros de pesquisa como **Unidade**, **Motivo** e **Situação**. Tendo as opções de ação **limpar** e **pesquisar**.
+Em **Pesquisar Solicitação**, na parte superior se encontram os filtros de pesquisa como **Unidade**, **Motivo** e **Situação**. Tendo as opções de ação **Limpar** e **Pesquisar**.
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Perquisar_Solicitacao_Filtros.png
    :alt: SAIP Interno Acompanhar Análise Filtros
@@ -43,12 +42,12 @@ Em **Pesquisar Solicitação**, na parte inferior encontram se os registros tota
    :alt: SAIP Interno Acompanhar Análise Ordena Resultado
 
 .. note::
-   Na lista de solicitações, o sistema apresenta a paginação a cada 10 registros. É possível selecionar a página desejada e nas extremidades há a opção de selecionar os ícones de página anterior e próxima página. 
+   Na lista de solicitações, o sistema apresenta a paginação a cada 10 registros. É possível selecionar a página desejada e nas extremidades, há a opção de selecionar os ícones de página anterior e próxima página. 
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Perquisar_Solicitacao_Paginacao.png
    :alt: SAIP Interno Acompanhar Análise Paginação
 
-Na lista, há as ações de **Atribuir Análise Manual** e **Consolidar Análise Manual**, respectivamente.
+No resultado da pesquisa, há as ações de **Atribuir Análise Manual** e **Consolidar Análise Manual**, respectivamente.
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Acoes.png
   :alt: SAIP Interno Acompanhar Análise Ações
@@ -59,7 +58,7 @@ Na lista, há as ações de **Atribuir Análise Manual** e **Consolidar Análise
    
 Atribuir Análise Manual
 ---------------------------
-Ao ter uma solicitação recém chegada, é apresentado a ação **Atribuir solicitação**, onde ao acionada é redirecionado para tela de **Realizar Atribuição de Análise**, onde será possível atribuir para cada área técnica responsável.
+Ao ter uma solicitação recém chegada, é apresentado a ação **Atribuir Solicitação**, onde ao acionada é redirecionado para tela de **Realizar Atribuição de Análise**, onde será possível atribuir para cada área técnica responsável.
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Acao_Atribuir.png
   :alt: SAIP Interno ação Atribuir Análise 
@@ -70,7 +69,7 @@ Ao ter uma solicitação recém chegada, é apresentado a ação **Atribuir soli
 Realizar Atribuição de Análise
 ---------------------------------
      
-Em **Análise manual**, encontram-se as opções, como, **Motivo para Análise Manual**, **Unidade Responsável**, e os botões de **Voltar**, ** Devolver para Correção** e ** Atribuir Solicitação**.
+Em **Análise Manual**, encontram-se as opções, como, **Motivo para Análise Manual**, **Unidade Responsável**, e os botões de **Voltar**, **Devolver para Correção** e **Atribuir Solicitação**.
   
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Atribuicao_Analise_Analise_Manual.png 
   :alt: SAIP Interno Realizar Atribuicao Análise campos
@@ -85,7 +84,7 @@ Em **Análise manual**, encontram-se as opções, como, **Motivo para Análise M
    :alt: SAIP Interno Realizar Atribuicao Análise campos Lupa Motivo Moldal
 
 .. note::
-  Selecionando a o botão voltar, o sistema retornará para tela de acompanhar analise.
+  Selecionando a o botão Voltar, o sistema retornará para tela de acompanhar analise.
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Atribuicao_Analise_Analise_Manual_Voltar.png 
   :alt: SAIP Interno Realizar Atribuicao Análise botão voltar
@@ -96,7 +95,7 @@ Em **Análise manual**, encontram-se as opções, como, **Motivo para Análise M
 Devolver para Correção
 -------------------------
  
-Selecionando o botão devolver para correção, é apresentado um campo onde será informado o motivo da correção, fazendo com que a solicitação retorne para ajustes.
+Selecionando o botão **Devolver para Correção**, é apresentado um campo onde será informado o motivo da correção, fazendo com que a solicitação retorne para ajustes.
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Atribuicao_Analise_Analise_Manual_Devolver.png 
   :alt: SAIP Interno Realizar Atribuicao Análise botão Devolver
@@ -109,7 +108,8 @@ São apresentados os botões **Cancelar** e **Confirmar Correção**, os quais r
 
 Atribuir Solicitação
 -------------------------
-Ao selecionar o botão **Atribuir Solicitação**, é apresentado um campo **Atribuir Análise Manual**, onde é apresentado os campos a serem informados, a **unidade** e **Área Técnica responsável**.
+
+Ao selecionar o botão **Atribuir Solicitação**, é apresentado um campo **Atribuir Análise Manual**, onde é apresentado os campos a serem informados, a **Unidade** e **Área Técnica Responsável**.
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Atribuicao_Analise_Analise_Manual_Botao_Atribuir_Solicitacao.png 
   :alt: SAIP Interno Realizar Atribuicao Análise botão atribuir Solicitação
@@ -124,12 +124,10 @@ Ao selecionar o botão **Atribuir Solicitação**, é apresentado um campo **Atr
 FCA 
 -----
 
-Em **FCA**, encontram-se a opção, **Interessado**, e aos dados da solicitação, como, **Empreendimento/ART**, **Área Diretamente Afetada - ADA**, **Área de Influência Direta - AID**, **Município(s)**, **Elementos do Projeto de Engenharia**, **Previsão de Impacto ** e **Processos em outros órgãos**.
-
+Em **FCA**, encontram-se a opção, **Interessado**, e os dados da solicitação, como **Empreendimento/ART**, **Área Diretamente Afetada - ADA**, **Área de Influência Direta - AID**, **Município(s)**, **Elementos do Projeto de Engenharia**, **Previsão de Impacto** e **Processos em outros órgãos**.
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Atribuicao_Analise_Analise_Manual_FCA.png   
   :alt: SAIP Interno Realizar Atribuicao Análise FCA
-
 
 Ao selecionar a lupa do campo interessando, é apresentado na tela os dados do interessado, contendo campos, como, **Tipo**, **CNPJ**, **Razão Social**, **Porte da Empresa**, **CPF**, **Responsável Legal**, **CEP**, **Endereço Comercial**, **Complemento**, **Bairro**, **UF**, **Cidade**, **E-mail**, **Telefone Fixo** e **Telefone Celular**.
 
@@ -138,8 +136,6 @@ Ao selecionar a lupa do campo interessando, é apresentado na tela os dados do i
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Atribuicao_Analise_FCA_Lupa_Dados_Interessado.png   
   :alt: SAIP Interno Realizar Atribuicao Dados Interessado  
-
-
 
 Selecionando os dados da solicitação, como, **Empreendimento/ART**, **Área Diretamente Afetada - ADA**, **Área de Influência Direta - AID**, **Município(s)**, **Elementos do Projeto de Engenharia**, **Previsão de Impacto** e **Processos em outros órgãos**, o sistema abre apresentando as informações pertinentes. 
 
@@ -177,12 +173,12 @@ Em **Município(s)**, é apresentado os bens culturais de âmbito federal na ADA
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Atribuicao_Analise_FCA_Itens_Municipios.png
     :alt: SAIP Interno Acompanhar Analise Realizar Atribuicao Analise FCA Itens Municipio
 
-Em **Elementos do projeto de engenharia**, tem-se a descrição detalhada do projeto de engenharia, contendo arquivos anexados. 
+Em **Elementos do Projeto de Engenharia**, tem-se a descrição detalhada do projeto de engenharia, contendo arquivos anexados. 
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Atribuicao_Analise_FCA_Itens_Elementos.png
    :alt: SAIP Interno Acompanhar Analise Realizar Atribuicao Análise FCA Itens Elemento
 
-Em **previsão de Impacto**, tem-se as informações onde apresenta se há previsão de impacto (direto ou indireto), sendo eles: Bens culturais acautelados em âmbito Federal?, Terras Indígenas?, Cavidades naturais subterrâneas?, Área urbana?, Práticas e/ou locais utilizados ou referenciados para a produção e reprodução cultural de bens culturais registrados em âmbito Federal?, Terras Quilombolas?, Meio aquático? e Centro histórico tombado?.
+Em **Previsão de Impacto**, tem-se as informações onde apresenta se há previsão de impacto (direto ou indireto), sendo eles: Bens culturais acautelados em âmbito Federal?, Terras Indígenas?, Cavidades naturais subterrâneas?, Área urbana?, Práticas e/ou locais utilizados ou referenciados para a produção e reprodução cultural de bens culturais registrados em âmbito Federal?, Terras Quilombolas?, Meio aquático? e Centro histórico tombado?.
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Atribuicao_Analise_FCA_Itens_Previsao.png
     :alt: SAIP Interno companhar Analise Realizar Atribuicao Analise FCA Itens Previsão
@@ -194,7 +190,8 @@ Em **Processos em outros órgãos**, tem-se as informações onde apresenta se h
 
 Consolidar Analise Manual 
 --------------------------
-Ao selecionar ação **Consolidar Analise Manual** é levado para a página de **Realizar Consolidação de Análise*, contendo os campos: **Voltar**, **Solicitou devolução para correção**, **Inviabilidade da Solicitação**, **Gerou o parecer**, **Motivo para Análise Manual**, **Unidade Responsável**, **Parecer - Bem Arqueológico**, **Parecer - Bem Material**, **Parecer - Bem Imaterial**, TRE.
+
+Ao selecionar a ação **Consolidar Analise Manual**, o sistema apresenta a página de **Realizar Consolidação de Análise**, contendo os campos: **Voltar**, **Solicitou devolução para correção**, **Inviabilidade da Solicitação**, **Gerou o Parecer**, **Motivo para Análise Manual**, **Unidade Responsável**, **Parecer - Bem Arqueológico**, **Parecer - Bem Material**, **Parecer - Bem Imaterial** e **TRE**.
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Consolidar_Analise_Acao.png
    :alt: SAIP Interno Consolidar Analise Manual Ação
@@ -213,13 +210,12 @@ Em **Solicitou devolução para correção** ao selecionar a opção "Analisar",
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Solicitou_Devolucao_Correcao_Encaminhar_Correcao.png
      :alt: SAIP Interno Consolidar Analise Manual Consolidar Análise
                            
-Em **Inviabilidade da Solicitação**, ao selecionar a opção "Analisar", é aberto um quadro "Análise de Indeferimentos" onde é apresentado as solicitãções que foi indeferidas.
+Em **Inviabilidade da Solicitação**, ao selecionar a opção **Analisar**, é aberto um quadro **Análise de Indeferimentos** onde é apresentado as solicitãções que foi indeferidas.
                                               
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Inviabilidade_Solicitacao.png
     :alt: SAIP Interno Consolidar Analise Manual Consolidar Análise
 
 No quadro tem-se duas opçãoes, **Cancelar** e **Recomendar Indeferimento**, ao selecionar **Cancelar** o quadro é fechado, selecionando **Recomendar Indeferimento**, é apresentada uma nova janela de **Indeferimento**, podendo **cancelar**, ao selecionado volta para o quadro anterior, ou a opção o **Gerar Indeferimento**.
-
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Inviabilidade_Solicitacao_Analise_Indeferimento.png
    :alt: SAIP Interno Consolidar Analise Manual Consolidar Análise
@@ -234,7 +230,6 @@ Em **Gerou o parecer**, ao selecionar a opção **Analisar**, é aberto um quadr
 .. note:: 
     No quadro tem-se duas opções, **Cancelar** e **Aprovar Parecer**, ao selecionar **Cancelar** o quadro é fechado, selecionando **Aprovar Parecer**, é apresentado a mensagem de confirmação e ao confirmar, o sistema aprova o parecer, gera o TRE e encaminhar mensagem para os envolvidos. 
 
-
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Gerou_Parecer_Cancelar_Aprovar_Parecer.png
     :alt: SAIP Interno Consolidar Analise Manual Consolidar Análise
 
@@ -243,6 +238,7 @@ Em **Gerou o parecer**, ao selecionar a opção **Analisar**, é aberto um quadr
 
 Motivo para Análise Manual
 --------------------------
+
 Ao selecionar a lupa  ao lado de "Motivo para Análise Manual", é aberto um quadro **Motivo**, onde é apresentado as informações e o motivo da análise.
 
 .. note:: 
@@ -253,6 +249,7 @@ Ao selecionar a lupa  ao lado de "Motivo para Análise Manual", é aberto um qua
 
 Unidade Responsável
 --------------------------
+
 Ao lado do campo **Unidade Responsável**, é apresentado o nome.
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Unidade_Responsavel.png
@@ -260,7 +257,8 @@ Ao lado do campo **Unidade Responsável**, é apresentado o nome.
 
 FCA - Consolidar Análise Manual
 -------------------------------
-Ao selecionar a lupa  ao lado de **Interessado**, é aberto um quadro,**Dados do Interessado**, onde é apresentado todos os dados do solicitante.
+
+Ao selecionar a lupa ao lado de **Interessado**, é aberto um quadro, **Dados do Interessado**, onde é apresentado todos os dados do solicitante.
                                                    
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Motivo_Analise_Manual_Interessado.png
     :alt: SAIP Interno Consolidar Analise Manual Consolidar Análise
@@ -273,6 +271,7 @@ Ao selecionar a lupa  ao lado de **Interessado**, é aberto um quadro,**Dados do
 
 Parecer - Bem Arqueológico 
 ---------------------------
+
 Em **Parecer - Bem Arqueológico**, selecionando o botão **Retificar Parecer**, é apresentando informação de retificação para o parecer gerado pelo Analista.
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Motivo_Analise_Manual_Parecer_Bem_Arqueologico.png
@@ -286,7 +285,8 @@ Em **Parecer - Bem Arqueológico**, selecionando o botão **Retificar Parecer**,
 
 Parecer - Bem Material
 --------------------------
-Em "Parecer - Bem Material", selecionando o botão **Retificar Parecer**, é apresentando informação de retificação para o parecer gerado pelo Analista.
+
+Em **Parecer - Bem Material**, selecionando o botão **Retificar Parecer**, é apresentando informação de retificação para o parecer gerado pelo Analista.
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Motivo_Analise_Manual_Parecer_Bem_material.png
   :alt: SAIP Interno Consolidar Analise Manual Consolidar Análise
@@ -299,6 +299,7 @@ Em "Parecer - Bem Material", selecionando o botão **Retificar Parecer**, é apr
 
 Parecer - Bem Imaterial 
 --------------------------
+
 Em **Parecer - Bem Imaterial**, selecionando o botão **Retificar Parecer**, é apresentando informação de retificação para o parecer gerado pelo Analista.
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Motivo_Analise_Manual_Parecer_Bem_Imaterial.png
@@ -312,6 +313,7 @@ Em **Parecer - Bem Imaterial**, selecionando o botão **Retificar Parecer**, é 
 
 TRE
 ---
+
 Em **TRE**, é apresetado os botões **Visualzar TRE** e **Salvar**, contendo os campos **Bem Arqueológico**, **Bem Tombado**, **Bem Valorado** e **Bem Imaterial**.
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Motivo_Analise_Manual_Parecer_TRE.png
@@ -333,7 +335,8 @@ Em **Visualzar TRE**, ao acionado é apresentado uma janela **Termo de Referênc
 
 Salvar
 ---------
-Em **Salvar**, ao acionado é apresentado uma mesagem "Salvo com sucesso", informando que as alterações realizadas foram gravadas.
+
+Em **Salvar**, ao acionado é apresentado uma mensagem "Salvo com sucesso", informando que as alterações realizadas foram gravadas.
                                                                
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Motivo_Analise_Manual_Parecer_TRE_Salvar.png
     :alt: SAIP Interno Consolidar Analise Manual Consolidar Análise
@@ -346,7 +349,8 @@ Em **Salvar**, ao acionado é apresentado uma mesagem "Salvo com sucesso", infor
 
 Bem Arqueológico
 --------------------------
-Em ***Bem Arqueológico**, é apresentado o o campo **Nível(Sugerido IN)**, **Nível correto conforme análise**, pode ser marcada uma das opções, sendo, **Não se aplica**, **Nível I**, **Nível II**, **Nível III** e **Nível IV**. 
+
+Em **Bem Arqueológico**, é apresentado o o campo **Nível(Sugerido IN)**, **Nível correto conforme análise**, pode ser marcada uma das opções, sendo, **Não se aplica**, **Nível I**, **Nível II**, **Nível III** e **Nível IV**. 
                                  
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Motivo_Analise_Manual_Parecer_TRE_Bem_Arqueologico.png
    :alt: SAIP Interno Consolidar Analise Manual Consolidar Análise
@@ -359,7 +363,8 @@ Em ***Bem Arqueológico**, é apresentado o o campo **Nível(Sugerido IN)**, **N
 
 Bem Tombado
 --------------------------
-Em ***Bem Tombado**, é apresentado o o campo **Nível(Sugerido IN)**, **Nível correto conforme análise**, pode ser marcada uma das opções, sendo, **Com impacto** e **Sem Impacto**. 
+
+Em **Bem Tombado**, é apresentado o campo **Nível(Sugerido IN)**, **Nível correto conforme análise**, pode ser marcada uma das opções, sendo, **Com impacto** e **Sem Impacto**. 
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Motivo_Analise_Manual_Parecer_TRE_Bem_Tombado.png
     :alt: SAIP Interno Consolidar Analise Manual Consolidar Análise
@@ -372,7 +377,8 @@ Em ***Bem Tombado**, é apresentado o o campo **Nível(Sugerido IN)**, **Nível 
 
 Bem Valorado
 --------------------------
-Em ***Bem Valorado**, é apresentado o o campo **Nível(Sugerido IN)**, **Nível correto conforme análise**, pode ser marcada uma das opções, sendo, **Com impacto** e **Sem Impacto**. 
+
+Em **Bem Valorado**, é apresentado o campo **Nível(Sugerido IN)**, **Nível correto conforme análise**, pode ser marcada uma das opções, sendo, **Com impacto** e **Sem Impacto**. 
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Motivo_Analise_Manual_Parecer_TRE_Bem_Valorado.png
     :alt: SAIP Interno Consolidar Analise Manual Consolidar Análise
@@ -383,10 +389,10 @@ Em ***Bem Valorado**, é apresentado o o campo **Nível(Sugerido IN)**, **Nível
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Motivo_Analise_Manual_Parecer_TRE_Bem_Valorado_Mensagem.png
     :alt: SAIP Interno Consolidar Analise Manual Consolidar Análise
 
-
 Bem Imaterial
 --------------------------
-Em ***Bem Imaterial**, é apresentado o o campo **Nível(Sugerido IN)**, **Nível correto conforme análise**, pode ser marcada uma das opções, sendo, **Sem Impacto**,  Com Impacto (TCE)**, **Com Impacto (Relatório)**, **Com Impacto (Relatório e TCE)**. 
+
+Em **Bem Imaterial**, é apresentado o campo **Nível(Sugerido IN)**, **Nível correto conforme análise**, pode ser marcada uma das opções, sendo, **Sem Impacto**,  **Com Impacto (TCE)**, **Com Impacto (Relatório)**, **Com Impacto (Relatório e TCE)**. 
                             
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Motivo_Analise_Manual_Parecer_TRE_Bem_Imaterial.png
      :alt: SAIP Interno Consolidar Analise Manual Consolidar Análise
@@ -396,5 +402,3 @@ Em ***Bem Imaterial**, é apresentado o o campo **Nível(Sugerido IN)**, **Níve
 
 .. image:: ../images/SAIP_Interno_Acompanhar_Analise_Realizar_Consolidacao_Analise_Motivo_Analise_Manual_Parecer_TRE_Bem_Imaterial_Mensagem.png
         :alt: SAIP Interno Consolidar Analise Manual Consolidar Análise
-
-

@@ -4,7 +4,7 @@ Dashboard
 .. meta::
  :description: Apresentação do Dashboard.
   
-Ao selecionar o menu **Dashboard**, é apresentado as opções: **Acompanhar Análise Manual**, **Análise Manual**, **Consolidar Análise Manual**, **Relatório Sintético - Licenciamento Ambiental**, **Infográfico - Solicitações por UF** e **Sistema**.
+Ao selecionar o menu **Dashboard**, é apresentado os seguintes dashboards: **Acompanhar Análise Manual**, **Análise Manual**, **Consolidar Análise Manual**, **Relatório Sintético - Licenciamento Ambiental**, **Infográfico - Solicitações por UF** e **Sistema**.
 
 .. image:: ../images/Dashboard.png
    :alt: SAIP Interno Dashboard
@@ -15,10 +15,13 @@ Ao selecionar o menu **Dashboard**, é apresentado as opções: **Acompanhar An�
 .. note::
    O sistema apresenta as opções: **Acompanhar Análise Manual**, **Análise Manual** e **Consolidar Análise Manual**, de forma aberta automaticamente ao ter a opção Dashboard selecionada.
 
+.. note::
+   Os dashboards são apresentados conforme o seu perfil no sistema. Caso não esteja sendo apresentado um determinado dashboard, mas necessita vê-lo, contate o Administrador do sistema.
+
 Carregar Dados
 --------------------------------------------
 
-Ao selecionar a opção **Carregar Dados**,o sistema atualiza as informações do dashboard e apresenta.
+Ao selecionar a opção **Carregar Dados**, o sistema atualiza as informações do respectivo dashboard.
 
 .. image:: ../images/SAIP_Interno_Dashboard_Opcao_Atualizar.png
    :alt: SAIP Interno Dashboard Carregar Dados
@@ -85,7 +88,7 @@ Em **Relatório Sintético - Licenciamento Ambiental**, é apresentado 8 quadros
 .. image:: ../images/SAIP_Interno_Relatorio_Sintetico_Licenciamento_Ambiental.png 
    :alt: SAIP Interno Relatório Sintético - Licenciamento Ambiental
    
-Na parte superior encontra-se duas combos, onde se pode filtrar os resultados, uma contendo os meses, quepor padrão é selecionado a opção Geral e a outra contendo os anos.
+Na parte superior encontra-se duas combos, onde se pode filtrar os resultados, uma contendo os meses, que por padrão é selecionada a opção **Geral** e a outra contendo os anos.
    
 .. image:: ../images/SAIP_Interno_Relatorio_Sintetico_Licenciamento_Ambiental_Filtro_Mes.png
    :alt: SAIP Interno Relatório Sintético - Licenciamento Ambiental Filtro Mês
@@ -94,7 +97,7 @@ Na parte superior encontra-se duas combos, onde se pode filtrar os resultados, u
    :alt: SAIP Interno Relatório Sintético - Licenciamento Ambiental Filtro Ano 
 
 .. note::
- Sempre que preencher os filtros, acionar a lupa, para que a ação seja executada.
+ Sempre que preencher os filtros, acione a lupa, para que a ação de filtrar seja executada.
 
 .. image:: ../images/SAIP_Interno_Relatorio_Sintetico_Licenciamento_Ambiental_Filtro_Lupa.png
    :alt: SAIP Interno Relatório Sintético - Licenciamento Ambiental Filtro lupa
@@ -110,7 +113,7 @@ Em **Infográfico**, é apresentado um mapa onde se pode visualizar de forma int
 .. image:: ../images/SAIP_Interno_Infografico_Dashboard.png
    :alt: SAIP Interno Infográfico Dashboard
 
-Na parte superior encontra-se duas combos, onde se pode filtrar os resultados, uma contendo os meses, que por padrão é selecionada a opção Geral e a outra contendo os anos.
+Na parte superior encontra-se duas combos, onde se pode filtrar os resultados, uma contendo os meses, que por padrão é selecionada a opção **Geral** e a outra contendo os anos.
 
 .. image:: ../images/SAIP_Interno_Infografico_Filtro.png
    :alt: SAIP Interno Infográfico Filtro
@@ -122,7 +125,7 @@ Na parte superior encontra-se duas combos, onde se pode filtrar os resultados, u
    :alt: SAIP Interno Infográfico Filtro Ano
 
 .. note::
- Sempre que preencher os filtros, acionar a lupa, para que a ação seja executada.
+ Sempre que preencher os filtros, acione a lupa, para que a ação de filtrar seja executada.
 
 .. image:: ../images/SAIP_Interno_Infografico_Lupa.png
    :alt: SSAIP Interno Infográfico Filtro Lupa
@@ -130,7 +133,7 @@ Na parte superior encontra-se duas combos, onde se pode filtrar os resultados, u
 .. image:: ../images/SAIP_Interno_Infografico_Filtro_Resultado.png
    :alt: SAIP Interno Infográfico Filtro Reultado
 
-Selecionando uma UF no mapa, os campos ao lado é automaticamente atualizado com as informações pertinentes ao estado.
+Selecionando uma UF no mapa, os campos ao lado são automaticamente atualizado com as informações pertinentes ao estado.
 
 .. image:: ../images/SAIP_Interno_Infografico_Mapa.png
    :alt: SAIP Interno Infográfico Mapa
@@ -146,7 +149,7 @@ Em **Sistema**, é apresentado 4 quadros, sendo eles: Usuários Cadastrados, Usu
 .. image:: ../images/SAIP_Interno_Sistema_Dashboard.png
    :alt: SAIP Interno Sistema Dashboard
       
-Na parte superior encontra-se duas combos, onde se pode filtrar os resultados, uma contendo os meses, que por padrão é selecionado a opção Geral e a outra contendo os anos.
+Na parte superior encontra-se duas combos, onde se pode filtrar os resultados, uma contendo os meses, que por padrão é selecionada a opção **Geral** e a outra contendo os anos.
       
 .. image:: ../images/SAIP_Interno_Sistema_Filtro_Mes.png
    :alt: SAIP Interno Sistema Filtro Mes
@@ -155,7 +158,7 @@ Na parte superior encontra-se duas combos, onde se pode filtrar os resultados, u
       :alt: SAIP Interno Sistema Filtro Ano
    
 .. note::
-    Sempre que preencher os filtros, acionar a lupa, para que a ação seja executada.
+    Sempre que preencher os filtros, acione a lupa, para que a ação de filtrar seja executada.
    
 .. image:: ../images/SAIP_Interno_Sistema_Filtro_Lupa.png
    :alt: SAIP Interno Sistema Filtro Lupa

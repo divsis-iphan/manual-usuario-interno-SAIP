@@ -1,14 +1,14 @@
 Relatório de Indicadores
 ==========================
 .. meta::
-   :description: Apresentação do  Relatório de Indicadores.
+   :description: Apresentação do Relatório de Indicadores.
   
-Para acessar o **Relatório de Indicadores** do sistema, clicar na opção **Relatório de Indicadores** no menu lateral esquerdo.
+Para acessar o **Relatório de Indicadores** do sistema, clique na opção **Relatório de Indicadores** no menu lateral esquerdo.
 
 .. image:: ../images/SAIP_Interno_Relatorio_Indicadores.png  
      :alt: SAIP Interno Relatório de Indicadores
 
-Em Parâmetros, na parte superior se encontram os parâmetros de pesquisa como, **Indicador**, **Título do Relatório** e as checkbox, Gráficos na Horizontal e Legenda.
+Em Parâmetros, na parte superior se encontram os parâmetros do Relatório como **Indicador**, **Título do Relatório** e as checkbox, **Gráficos na Horizontal** e **Legenda**.
 
 .. image:: ../images/SAIP_Interno_Relatorios_Parametros.png
         :alt: SAIP Interno Relatório de Indicadores Parâmetros
@@ -21,7 +21,7 @@ Em Parâmetros, na parte inferior se encontram os parâmetros de pesquisa, de ac
 
 FCA vs Ano   
 ------------
-Para o indicador FCA vs Ano, apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
+Para o indicador **FCA vs Ano**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página **Relatório**, apresentando os dados de acordo com os filtros selecionados.
@@ -31,7 +31,7 @@ Para o indicador FCA vs Ano, apresenta e permite a seleção dos seguintes filtr
 
 Nível Arqueológico vs Ano  
 ---------------------------
-Para o indicador Nível Arqueológico vs Ano, apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
+Para o indicador **Nível Arqueológico vs Ano**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -42,7 +42,7 @@ Para o indicador Nível Arqueológico vs Ano, apresenta e permite a seleção do
 
 FCA vs Regiões Geográficas (para cada região)   
 ------------------------------------------------
-Para o indicador FCA vs Regiões Geográficas (para cada região),apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
+Para o indicador **FCA vs Regiões Geográficas (para cada região)**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -52,7 +52,7 @@ Para o indicador FCA vs Regiões Geográficas (para cada região),apresenta e pe
 
 Somatória de todas FCA vs Regiões Geográficas (para cada região)       
 ------------------------------------------------------------------------
-Para o indicador Somatória de todas FCA vs Regiões Geográficas (para cada região), apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
+Para o indicador **Somatória de todas FCA vs Regiões Geográficas (para cada região)**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -63,7 +63,7 @@ Para o indicador Somatória de todas FCA vs Regiões Geográficas (para cada reg
 Somatória de todas FCA vs Estados          
 --------------------------------------
 
-Para o indicador Somatória de todas FCA vs Estados, apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
+Para o indicador **Somatória de todas FCA vs Estados**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -74,7 +74,7 @@ Para o indicador Somatória de todas FCA vs Estados, apresenta e permite a sele�
 Item da IN vs Ano            
 --------------------
 
-Para o indicador Somatória de todas FCA vs Estados, apresentar e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
+Para o indicador **Somatória de todas FCA vs Estados**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -84,7 +84,7 @@ Para o indicador Somatória de todas FCA vs Estados, apresentar e permite a sele
 
 Item da IN vs Somatório dos Anos           
 ------------------------------------
-Para o indicador Item da IN vs Somatório dos Anos, apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
+Para o indicador **Item da IN vs Somatório dos Anos**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -95,8 +95,7 @@ Para o indicador Item da IN vs Somatório dos Anos, apresenta e permite a seleç
 
 Setores vs Ano 
 -----------------
-Para o indicador Setores vs Ano, apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
-
+Para o indicador **Setores vs Ano**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -107,7 +106,7 @@ Para o indicador Setores vs Ano, apresenta e permite a seleção dos seguintes f
 
 Setores vs Somatório dos Anos    
 ------------------------------
-Para o indicador Setores vs Somatório dos Anos, apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
+Para o indicador **Setores vs Somatório dos Anos**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
 
 
 .. note::
@@ -119,7 +118,7 @@ Para o indicador Setores vs Somatório dos Anos, apresenta e permite a seleção
 
 (Licenciamento Federal/Estadual/Municipal) vs Ano   
 ------------------------------------------------------------
-Para o indicador vs Ano, apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
+Para o indicador **(Licenciamento Federal/Estadual/Municipal) vs Ano**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -130,8 +129,7 @@ Para o indicador vs Ano, apresenta e permite a seleção dos seguintes filtros: 
 
 (Licenciamento Federal/Estadual/Municipal) vs Somatório dos Anos         
 ------------------------------------------------------------------------
-Para o indicador vs Ano, apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
-
+Para o indicador **(Licenciamento Federal/Estadual/Municipal) vs Somatório dos Anos**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -142,7 +140,7 @@ Para o indicador vs Ano, apresenta e permite a seleção dos seguintes filtros: 
 
 Tempo de emissão do TRE durante a análise manual vs Estado   
 ------------------------------------------------------------
-Para o indicador Tempo de emissão do TRE durante a análise manual vs Estado, apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Tempo de Emissão do TRE (Análise Manual), Enquadramento do Empreendimento, Analistas, Bem Material e Setor.
+Para o indicador **Tempo de emissão do TRE durante a análise manual vs Estado**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Tempo de Emissão do TRE (Análise Manual), Enquadramento do Empreendimento, Analistas, Bem Material e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -152,7 +150,7 @@ Para o indicador Tempo de emissão do TRE durante a análise manual vs Estado, a
 
 Requisição Bem Material vs Ano          
 ------------------------------------
-Para o indicador Requisição Bem Material vs Ano, apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material e Setor.
+Para o indicador **Requisição Bem Material vs Ano**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material e Setor.
 
 
 .. note::
@@ -163,7 +161,7 @@ Para o indicador Requisição Bem Material vs Ano, apresenta e permite a seleç�
 
 Requisição Bem Material vs Estado     
 ------------------------------------
-Para o indicador Requisição Bem Material vs Ano, apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material e Setor.
+Para o indicador **Requisição Bem Material vs Ano**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -173,7 +171,7 @@ Para o indicador Requisição Bem Material vs Ano, apresenta e permite a seleç�
 
 Requisição de Bem Imaterial vs Ano                     
 ------------------------------------------------
-Para o indicador Requisição Bem Imaterial vs Ano, apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Imaterial e Setor.
+Para o indicador **Requisição Bem Imaterial vs Ano**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Imaterial e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -184,7 +182,7 @@ Para o indicador Requisição Bem Imaterial vs Ano, apresenta e permite a seleç
 
 Requisição de Bem Imaterial vs Estado                    
 ------------------------------------------------
-Para o indicador Requisição Bem Imaterial vs Ano, apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
+Para o indicador **Requisição Bem Imaterial vs Ano**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Analistas, Bem Material, Bem Imaterial e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -195,7 +193,7 @@ Para o indicador Requisição Bem Imaterial vs Ano, apresenta e permite a seleç
 
 Nº de discordância do TRE vs Ano                               
 ------------------------------------------------
-Para o indicador Nº de discordância do TRE vs Ano, apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Discordância do TRE, Analistas, Bem Material, Bem Imaterial e Setor.
+Para o indicador **Nº de discordância do TRE vs Ano**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Discordância do TRE, Analistas, Bem Material, Bem Imaterial e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -205,7 +203,7 @@ Para o indicador Nº de discordância do TRE vs Ano, apresenta e permite a sele�
 
 Nº de discordância do TRE vs Estado                                 
 ------------------------------------------------
-Para o indicador Nº de discordância do TRE vs Estado, apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Discordância do TRE, Analistas, Bem Material, Bem Imaterial e Setor.
+Para o indicador **Nº de discordância do TRE vs Estado**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Estado, Tipo do Empreendimento, Detalhamento, Sub-detalhamento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Discordância do TRE, Analistas, Bem Material, Bem Imaterial e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -215,7 +213,7 @@ Para o indicador Nº de discordância do TRE vs Estado, apresenta e permite a se
 
 Nº de discordância do TRE vs Tipologia       
 ------------------------------------------------
-Para o indicador Nº de discordância do TRE vs Tipologia, apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Estado, Tipo do Empreendimento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Discordância do TRE, Analistas, Bem Material, Bem Imaterial e Setor.
+Para o indicador **Nº de discordância do TRE vs Tipologia**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Mês (Período), Mês, Regiões Geográficas, Estado, Tipo do Empreendimento, Item Nº (IN), Nível Arqueológico, Enquadramento do Empreendimento, Discordância do TRE, Analistas, Bem Material, Bem Imaterial e Setor.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -225,7 +223,7 @@ Para o indicador Nº de discordância do TRE vs Tipologia, apresenta e permite a
 
 Reenquadramento Automático vs Ano
 ----------------------------------------------------
-Para o indicador **Reenquadramento Automático vs Ano**, apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado e Enquadramento do Empreendimento.
+Para o indicador **Reenquadramento Automático vs Ano**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado e Enquadramento do Empreendimento.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
@@ -235,7 +233,7 @@ Para o indicador **Reenquadramento Automático vs Ano**, apresenta e permite a s
 
 Reenquadramento Automático vs Estados
 -----------------------------------------
-Para o indicador **Reenquadramento Automático vs Estados**, apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado e Enquadramento do Empreendimento.
+Para o indicador **Reenquadramento Automático vs Estados**, o sistema apresenta e permite a seleção dos seguintes filtros: Ano, Regiões Geográficas, Estado e Enquadramento do Empreendimento.
 
 .. note::
    Tem-se os botões, **Limpar** onde remove os filtros selecionados e **Gerar**, que leva para a página Relatório, apresentando os dados de acordo com os filtros selecionados.
