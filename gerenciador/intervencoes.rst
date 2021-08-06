@@ -4,35 +4,34 @@ Intervenções
 .. meta::
    :description: Apresentação do Gerenciador - Intervenções.
        
-Para acessar o **Gerenciador de Tipos de Intervenções** do sistema, clique no menu **Gerenciador** no menu lateral esquerdo e então selecione a opção **Intervenções** no submenu lateral esquerdo, onde irá permitir gerenciar as Intervenções cadastradas.
+Para acessar o **Gerenciador de Tipos de Intervenções**, o sistema disponibiliza a opção **Gerenciador**, no menu lateral esquerdo, e a opção Intervenções, no submenu.
      
 .. image:: ../images/SAIP_Interno_Gerenciador_Tipos_Intervencoes.png
      :alt: SAIP Interno Gereciador Tipos Intervencoes
      
-Em **Pesquisar Tipos de Intervenções**, na parte superior se encontram os filtros de pesquisa como Nome, Descrição e Situação. E o botão **Novo Tipo de Intervenção**, para cadastro de novas Intervenções.
+Na parte superior do **Pesquisar Tipos de Intervenções** são disponibilizados os filtros de pesquisa: **Nome**, **Descrição** e **Situação**, e ainda as opções de ação:** Novo Tipo de Intervenção**, **Limpar** e **Pesquisar**.
      
 .. image:: ../images/SAIP_Interno_Gerenciador_Intervencoes_Pesquisar_Intervencoes.png
      :alt: SAIP Interno Gerenciador Tipos Intervenções
 
 .. note::
-     Sempre que preencher os filtros clique no botão **Pesquisar**, para que a ação seja executada. Acionando **Limpar** os filtros são removidos.
+     Para que a ação de pesquisa seja executada, faz-se necessário que se preencha os filtros disponíveis e acione o botão **Pesquisar**; para que os fitros sejam removidos faz-se necessário que se acione o botão **Limpar**.
      
 .. image:: ../images/SAIP_Interno_Gerenciador_Intervencoes_Pesquisar_Limpar.png
      :alt: SAIP Interno Gerenciador Tipos Intervenções Pesquisar
      
-Em **Pesquisar Tipos de Intervenções** na parte inferior, encontram-se os registros totais de Licenças ou o resultado da pesquisa realizada com os filtros. As colunas apresentadas são Nome, Descrição, Situação e Ações.
+Como resultado do **Pesquisar Tipos de Intervenções** são apresentadas as colunas: **Nome**, **Descrição**, **Situação** e **Ações**, e a quantidade total de registros.
                            
 .. image:: ../images/SAIP_Interno_Gerenciador_Intervencoes_Pesquisar_Resultado.png 
      :alt: SAIP Interno Gerenciador Intervenções Resultado
      
 .. note::
-      O sistema permite que você ordene as colunas por ordem crescente ou decrescente conforme se clica nos títulos de cada coluna.
+      O sistema permite que haja a ordenação das colunas na forma crescente ou decrescente conforme se clica nos títulos de cada coluna.
                          
 .. image:: ../images/SAIP_Interno_Gerenciador_Intervencoes_Pesquisar_Ordenar.png
      :alt: SAIP Interno Gerenciador Intervenções Ordenar
-     
-     
-Na lista, há as ações de **Editar Tipo de Intervenção** e Excluir **Tipo de Intervenção**, respectivamente.
+
+Como ações disponíveis na lista de resultado do **Pesquisar Tipos de Intervenções**, tem-se: **Editar Tipo de Intervenção** e **Excluir Tipo de Intervenção**.
      
 .. image:: ../images/SAIP_Interno_Gerenciador_Intervencoes_Acoes.png
      :alt: SAIP Interno Gerenciador Intervenções Ações
@@ -40,10 +39,10 @@ Na lista, há as ações de **Editar Tipo de Intervenção** e Excluir **Tipo de
 Novo Tipo de Intervenção
 --------------------------
      
-Ao acionar o botão **Novo Tipo de Intervenção**, é apresentado a tela para incluir um novo Tipo de Intervenção, contendo os campos, Nome e Descrição.
+Ao acionar o botão **Novo Tipo de Intervenção**, o sistema apresenta uma tela para a inclusão dos dados de um novo tipo de intervenção.
      
 .. note:: 
-     Após inserir os dados da Intervenção, é necessário acionar o botão **Salvar** para que seja cadastrado. O botão **Cancelar** retorna para a tela de Gerenciar Tipos de Intervenções.
+     Os botões **Cancelar** e **Salvar** são disponibilizados, permitindo o cancelamento ou a gravação da inclusão, respectivamente.
      
 .. image:: ../images/SAIP_Interno_Gerenciador_ntervencoes_Cadastrar_Intervencao.png
      :alt: SAIP Interno Gerenciador Intervenções Cadastrar Intervenção
@@ -51,10 +50,10 @@ Ao acionar o botão **Novo Tipo de Intervenção**, é apresentado a tela para i
 Editar Tipo de Intervenção
 ---------------------------
      
-Ao acionar o botão **Editar Tipo de Intervenção**, é apresentado a tela para alterar os dados de um Tipo de Intervenção, com os campos Nome e Descrição, e os botões **Cancelar**, onde retorna para a tela de **Gerenciar Tipos de Intervenções**, sem alterações, e **Alterar**, onde salva as alterações realizadas e retorna para a tela de **Gerenciar Tipos de Intervenções**.
+Ao acionar o botão **Editar Tipo de Intervenção**, o sistema apresenta uma tela para a alteração dos dados do tipo de intervenção. Os botões **Cancelar** e **Alterar** são disponibilizados, permitindo o cancelamento ou a gravação da alteração, respectivamente.
      
 .. note::
-        Tem-se o campo **Situação**, onde se tem a opção de ativar ou inativar a Intervenção cadastrada. 
+     No campo **Situação**, é permitido ativar ou inativar um tipo de intervenção já cadastrado. 
      
 .. image:: ../images/SAIP_Interno_Gerenciador_Intervencoes_Acoes_Editar_Intervencao.png
      :alt: SAIP Interno Gerenciador Editar Intervenções
@@ -62,8 +61,7 @@ Ao acionar o botão **Editar Tipo de Intervenção**, é apresentado a tela para
 Excluir Tipo de Intervenção
 ----------------------------
      
-Ao acionar o botão **Excluir Tipo de Intervenção**, o sistema apresenta uma janela de **Exclusão de Tipo de Intervenção**, com os botões **Cancelar**, onde a operação de exclusão é cancelada e **OK**, onde é confirmada a exclusão da Intervenção.
-     
+Ao acionar o botão **Excluir Tipo de Intervenção**, o sistema apresenta uma tela para a confirmação da exclusão. Os botões **Cancelar** e **Ok** são disponibilizados, permitindo o cancelamento ou a confirmação da exclusão, respectivamente.
      
 .. image:: ../images/SAIP_Interno_Gerenciador_Intervencoes_Acoes_Excluir_Intervencao.png
         :alt: SAIP Interno Gerenciador Excluir Intervenção               

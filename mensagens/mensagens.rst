@@ -4,36 +4,36 @@ Mensagens
 .. meta::
  :description: Apresentação do Mensagens.
   
-Para acessar as mensagens encaminhadas pelo sistema, clicar na opção **Mensagens** no menu lateral esquerdo.
+Para acessar as mensagens encaminhadas pelo sistema, o sistema disponibiliza a opção **Mensagens** no menu lateral esquerdo.
 
 .. image:: ../images/SAIP_Interno_Mensagens.png
      :alt: SAIP Interno Mensagens
 
 
-Em **Pesquisar Mensagem**, na parte superior se encontram os filtros de pesquisa como Solicitação e Data de Envio.
+Na parte superior do **Pesquisar Mensagem** são disponibilizados os filtros de pesquisa: **Solicitação** e **Data de Envio**.
 
 .. image:: ../images/SAIP_Interno_Mensagens_Filtros.png 
      :alt: SAIP Interno Mensagens Filtros
 
 .. note::
-     Sempre que preencher os filtros clique no botão Pesquisar, para que a ação seja executada.
+     Para que a ação de pesquisa seja executada, faz-se necessário que se preencha os filtros disponíveis e acione o botão **Pesquisar**.
 
 .. image:: ../images/SAIP_Interno_Mensagens_Filtros_Pesquisar.png
      :alt: SAIP Interno Mensagens Pesquisa
 
 
-Em **Pesquisar Mensagem** na parte inferior, encontram-se os registros totais de mensagem ou o resultado da pesquisa realizada com os filtros. As colunas apresentadas são Solicitação, Devolvido Por, Motivo, Data do Envio e Ações.
+Como resultado do **Pesquisar Mensagem** são apresentadas as colunas: **Solicitação**, **Devolvido Por**, **Motivo**, **Data do Envio** e **Ações**, e a quantidade total de registros.
 
 .. image:: ../images/SAIP_Interno_Mensagens_Resultado_Pesquisa.png
      :alt: SAIP Interno Mensagens Resultado Pesquisa
 
 .. note::
-   O sistema permite que você ordene as colunas por ordem crescente ou decrescente conforme se clica nos títulos de cada coluna.
+   O sistema permite que haja a ordenação das colunas na forma crescente ou decrescente, conforme se clica nos títulos de cada coluna.
 
 .. image:: ../images/SAIP_Interno_Mensagens_Pesquisar_Resultado_Ordem.png
      :alt: SAIP Mensagens Pesquisar Resultado Ordem
 
-No resultado da pesquisa, há as ações de **Visualizar Mensagem** e **Excluir Mensagem**, respectivamente.
+Como ações disponíveis na lista de resultado do **Pesquisar Mensagem**, tem-se: **Visualizar Mensagem** e **Excluir Mensagem**.
 
 .. image:: ../images/SAIP_Interno_Mensagens_Acoes.png
      :alt: SAIP Interno Mensagens Acoes
@@ -41,7 +41,7 @@ No resultado da pesquisa, há as ações de **Visualizar Mensagem** e **Excluir 
 
 Visualizar Mensagem
 --------------------
-O botão **Visualizar Mensagem**, o sistema apresenta uma janela com todas as informações detalhadas da mensagem. É apresentado o botão **Fechar** que realiza o fechamento da janela da mensagem.
+Ao acionar o botão **Visualizar Mensagem**, o sistema apresenta uma tela contendo todas as informações detalhadas da mensagem. O botão **Fechar** é disponibilizado, permitindo o fechamento da tela da mensagem.
 
 .. image:: ../images/SAIP_Interno_Mensagens_Visualizar_Mensagem.png
      :alt: SAIP Interno Mensagens Visualizar Mensagem
@@ -52,7 +52,7 @@ O botão **Visualizar Mensagem**, o sistema apresenta uma janela com todas as in
 Excluir Mensagem
 ------------------
 
-Ao acionar o botão **Excluir Mensagem** , o sistema apresenta uma janela de confirmação da exclusão. Serão apresentados os botões Cancelar e Ok os quais respectivamente, um realiza o fechamento da mensagem e o outro confirma a exclusão da mensagem.
+Ao acionar o botão **Excluir Mensagem**, o sistema apresenta uma tela para a confirmação da exclusão. Os botões **Cancelar** e **Ok** são disponibilizados, permitindo o cancelamento ou a confirmação da exclusão, respectivamente.
 
 .. image:: ../images/SAIP_Interno_Mensagens_Excluir_Mensagem.png
      :alt: SAIP Interno Mensagens Excluir Mensagem

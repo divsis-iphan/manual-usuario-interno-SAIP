@@ -4,33 +4,33 @@ Instalações
 .. meta::
    :description: Apresentação do Gerenciador - Instalações.
       
-Para acessar o **Gerenciador de Instalações Secundárias** do sistema, clique no menu **Gerenciador** no menu lateral esquerdo e então selecione a opção **Instalações** no submenu lateral esquerdo, onde irá permitir gerenciar as Instalações Secundárias cadastradas.
+Para acessar o **Gerenciador de Instalações Secundárias** no sistema, o sistema disponibiliza a opção **Gerenciador**, no menu lateral esquerdo, e a opção **Instalações**, no submenu.
 
 .. image:: ../images/SAIP_Interno_Gerenciador_Instalacoes.png
      :alt: SAIP Interno Gereciador Setores
 
-Em **Pesquisar Instalação Secundária**, na parte superior se encontram os filtros de pesquisa como Nome, Descrição e Situação. E o botão **Nova Instalação**, para cadastro de novas instalações.
+Na parte superior do **Pesquisar Instalação Secundária** são disponibilizados os filtros de pesquisa: **Nome**, **Descrição** e **Situação**, e ainda as opções de ação: **Nova Instalação**, **Limpar** e **Pesquisar**.
 
 .. image:: ../images/SAIP_Interno_Gerenciador_instalacoes_Pesquisar_instalacao.png
      :alt: SAIP Interno Gerenciador Pesquisar instalações
 .. note::
-     Sempre que preencher os filtros clique no botão **Pesquisar**, para que a ação seja executada. Acionando **Limpar** os filtros são removidos.
+     Para que a ação de pesquisa seja executada, faz-se necessário que se preencha os filtros disponíveis e acione o botão **Pesquisar**; para que os fitros sejam removidos faz-se necessário que se acione o botão **Limpar**.
 
 .. image:: ../images/SAIP_Interno_Gerenciador_instalacoes_Pesquisar_instalacoes_Pesquisar_Limpar.png
      :alt: SAIP Interno Gerenciador instalacoes Pesquisar
 
-Em **Pesquisar Instalação Secundária** na parte inferior, encontram-se os registros totais de Setores ou o resultado da pesquisa conforme os filtros informados. As colunas apresentadas são Nome, Situação e Ações.
+Como resultado do **Pesquisar Instalação Secundária** são apresentadas as colunas: **Nome**, **Situação** e **Ações**, e a quantidade total de registros.
                       
 .. image:: ../images/SAIP_Interno_Gerenciador_instalacoes_Pesquisar_instalacoes_Resultado.png
      :alt: SAIP Interno Gerenciador instalacoes Resultado
 
 .. note::
-     O sistema permite que você ordene as colunas por ordem crescente ou decrescente conforme se clica nos títulos de cada coluna.
+     O sistema permite que haja a ordenação das colunas na forma crescente ou decrescente conforme se clica nos títulos de cada coluna.
                     
 .. image:: ../images/SAIP_Interno_Gerenciador_instalacoes_Pesquisar_Ordenar.png
      :alt: SAIP Interno Gerenciador instalacoes Ordenar
 
-No resultado da pesquisa, há as ações de **Editar instalação** e **Excluir instalação** , respectivamente.
+Como ações disponíveis na lista de resultado do **Pesquisar Instalação Secundária**, tem-se: **Editar Instalação** e **Excluir Instalação**.
 
 .. image:: ../images/SAIP_Interno_Gerenciador_Setores_Acoes.png
      :alt: SAIP Interno Gerenciador instalação Ações
@@ -38,10 +38,10 @@ No resultado da pesquisa, há as ações de **Editar instalação** e **Excluir 
 Nova instalação
 ----------------
 
-Ao acionar o botão **Novo Instalação**, é apresentado a tela para incluir uma nova Instalação Secundária, contendo os campos, Nome e Descrição.
+Ao acionar o botão **Nova Instalação**, o sistema apresenta uma tela para a inclusão dos dados de uma nova instalação secundária.
 
 .. note:: 
-     Após inserir os dados da nova Instalação, é necessário acionar o botão **Salvar** para que seja cadastrado. O botão **Cancelar** retorna para a tela de gerenciamento das Instalações Secundárias.
+     Os botões **Cancelar** e **Salvar** são disponibilizados, permitindo o cancelamento ou a gravação da inclusão, respectivamente.
 
 .. image:: ../images/SAIP_Interno_Gerenciador_Instalacoes_Cadastrar_instalacao.png
      :alt: SAIP Interno Gerenciador Instalacoes Cadastrar instalação
@@ -49,10 +49,10 @@ Ao acionar o botão **Novo Instalação**, é apresentado a tela para incluir um
 Editar instalação
 ------------------
 
-Ao acionar o botão **Editar Instalação**, o sistema apresenta é apresentado a tela de **Alterar Instalação Secundária**, com os botões **Cancelar**, onde retorna para a tela de **Instalações Secundárias**, sem alterações, e **Alterar** onde salva as alterações realizadas e retorna para a tela de **Instalações Secundárias**.
+Ao acionar o botão **Editar Instalação**, o sistema apresenta uma tela para a alteração dos dados da instalação secundária. Os botões **Cancelar** e **Alterar** são disponibilizados, permitindo o cancelamento ou a gravação da alteração, respectivamente.
 
 .. note::
-   Tem-se o campo **Situação**, onde se tem a opção de ativar ou inativar a Instalação Secundária cadastrada. 
+     No campo **Situação**, é permitido ativar ou inativar uma instalação secundária já cadastrada. 
 
 .. image:: ../images/SAIP_Interno_Gerenciador_instalacoes_Acoes_Editar_instalacao.png
      :alt: SAIP Interno Gerenciador Editar instalacao
@@ -60,7 +60,7 @@ Ao acionar o botão **Editar Instalação**, o sistema apresenta é apresentado 
 Excluir instalação
 -----------------------  
 
-Ao acionar o botão **Excluir Instalação**, o sistema apresenta uma janela de **Exclusão de Instalação Secundária**, com os botões **Cancelar**, onde a operação de exclusão é cancelada e **OK**, onde é confirmada a exclusão da instalação.
+Ao acionar o botão **Excluir Instalação**, o sistema apresenta uma tela para a confirmação da exclusão. Os botões **Cancelar** e **Ok** são disponibilizados, permitindo o cancelamento ou a confirmação da exclusão, respectivamente.
 
 .. image:: ../images/SAIP_Interno_Gerenciador_Instalacoes_Acoes_Excluir_instalacao.png 
      :alt: SAIP Interno Gerenciador Excluir instalação

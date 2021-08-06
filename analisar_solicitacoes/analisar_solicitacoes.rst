@@ -4,58 +4,58 @@ Analisar Solicitações
 .. meta::
  :description: Apresentação do Analisar Solicitações.
   
-Para acompanhar e realizar a análise manual das solicitações, pelo SAIP, clique na opção **Analisar Solicitações** no menu lateral esquerdo.
+Para acompanhar e realizar a análise manual das solicitações, pelo SAIP, o sistema disponibiliza a opção **Analisar Solicitações**, no menu lateral esquerdo.
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes.png
     :alt: SAIP Interno Acompanhar Análisar Solicitações
 
 Pesquisar Solicitação
 -----------------------
-Em Pesquisar Solicitação, na parte superior se encontram os filtros de pesquisa como Unidade, Motivo e Situação, assim como os botões **Limpar** e **Pesquisar**.
+Na parte superior do **Pesquisar Solicitação** são disponibilizados os filtros de pesquisa: **Unidade**, **Motivo** e **Situação**, e ainda as opções de ação: **Limpar** e **Pesquisar**. 
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao.png
         :alt: SAIP Interno Acompanhar Análisar Solicitações
 
 .. note::
-    Sempre que preencher os filtros clique no botão **Pesquisar**, para que a ação seja executada, e **Limpar** para remover os filtros selecionados.
+   Para que a ação de pesquisa seja executada, faz-se necessário que se preencha os filtros disponíveis e acione o botão **Pesquisar**; para que os fitros sejam removidos faz-se necessário que se acione o botão **Limpar**.
    
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Limpar_Pesquisar.png
    :alt: SAIP Interno Acompanhar Análisar Solicitações
 
-Em Pesquisar Solicitação, na parte inferior encontra-se os registros totais de solicitações ou conforme os filtros informados. As colunas apresentadas são: Solicitação, Solicitante, Interessado, Unidade Responsável, Motivo Análise Manual, Prazo para Resolução e Ações.
+Como resultado do **Pesquisar Solicitação** são apresentadas as colunas: **Solicitação**, **Solicitante**, **Interessado**, **Unidade Responsável**, **Motivo Análise Manual**, **Prazo para Resolução** e **Ações**, e a quantidade total de registros.
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Resultado.png
    :alt: SAIP Interno Acompanhar Análisar Solicitações
 
 .. note::
-    O sistema permite que você ordene as colunas por ordem crescente ou decrescente, conforme o clique nos títulos de cada coluna.
+    O sistema permite que haja a ordenação das colunas na forma crescente ou decrescente, conforme o clique nos títulos de cada coluna.
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Ordenar.png
    :alt: SAIP Interno Acompanhar Análisar Solicitações
 
 .. note::
-     Na lista de solicitações, o sistema apresenta a paginação a cada 10 registros. É possível selecionar a página desejada e nas extremidades, há a opção de selecionar os ícones de página anterior e próxima página.
+   A lista de resultado do **Pesquisar Solicitação** apresenta paginação de 10 em 10 registros, as páginas por meio das quais o usuário pode navegar entre elas, e as opções de navegação para as próxima página e página anterior.
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Paginacao.png
       :alt: SAIP Interno Acompanhar Análisar Solicitações
 
-No resultado da pesquisa, na coluna Ações, há a opção **Analisar**.
+Como ações disponíveis na lista de resultado do **Pesquisar Solicitação**, tem-se: **Analisar**.
 
 .. note::
-   A ação é apresentada, de acordo com a **Situação** atual da solicitação.
+   As ações são apresentadas, de acordo com a **Situação** atual da solicitação.
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Acao.png
     :alt: SAIP Interno Acompanhar Análisar Solicitações
 
 Analisar
 ---------
-Ao acionar o botão **Analisar**, o sistema é redirecionado para a página de **Análise Manual**, onde se tem **Motivo para Análise Manual**, **Unidade Responsável**, **Interessado** e as informações preenchidas na Solicitação, presente na aba **FCA**. Assim como as ações **Voltar**, **Inviabilidade da Solicitação**, **Devolver para Correção** e **Gerar Parecer**.
+Ao selecionar a opção de menu **Analisar Solicitações**, o sistema redireciona o usuário para a tela de **Análise Manual**, onde são apresentados os campos: **Motivo para Análise Manual**, **Unidade Responsável**, **Interessado** e as informações preenchidas na Solicitação, na aba **FCA**, e as ações **Voltar**, **Inviabilidade da Solicitação**, **Devolver para Correção** e **Gerar Parecer**.
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Acao_Analisar.png 
    :alt: SAIP Interno Acompanhar Análisar Solicitações
 
 .. note::
-      Selecionando a lupa no campo **Motivo para Análise Manual**, é apresentado as informações do motivo da analise manual.
+   Ao acionar a lupa no campo **Motivo para Análise Manual**, serão apresentados os dados do motivo da analise manual.
                    
  .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Analise_Manual_Motivo.png
    :alt: SAIP Interno Acompanhar Análisar Solicitações
@@ -64,7 +64,7 @@ Ao acionar o botão **Analisar**, o sistema é redirecionado para a página de *
   :alt: SAIP Interno Acompanhar Análisar Solicitações
 
 .. note::
-    Selecionando a lupa no campo **Interessado**, é apresentado os dados do Interessado.
+   Ao acionar a lupa no campo interessado, serão apresentados os dados do interessado: **Tipo**, **CNPJ**, **Razão Social**, **Porte da Empresa**, **CPF**, **Responsável Legal**, **CEP**, **Endereço Comercial**, **Complemento**, **Bairro**, **UF**, **Cidade**,** E-mail**, **Telefone Fixo** e **Telefone Celular**.
                    
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Analise_Manual_Interessado.png
     :alt: SAIP Interno Acompanhar Análisar Solicitações
@@ -75,13 +75,13 @@ Ao acionar o botão **Analisar**, o sistema é redirecionado para a página de *
 Inviabilidade da Solicitação
 -----------------------------
 
-Selecionando a opção **Inviabilidade da Solicitação**, o sistema apresenta a janela **Inviabilidade da Solicitação** para preenchimento do Ofício de Inviabilidade.
+Ao acionar o botão **Inviabilidade da Solicitação**, o sistema abre o formulário **Inviabilidade da Solicitação** para o preenchimento do Ofício de Inviabilidade.
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Analise_Manual_Inviabilidade_Solicitacao.png
           :alt: SAIP Interno Acompanhar Análisar Solicitações
 
 .. note:: 
-      Ao selecionar a opção "Confirmar Inviabilidade", o sistema gera o ofício, altera a situação do registro e então é encerrada a análise.
+   Ao acionar o botão **Confirmar Inviabilidade**, o sistema gera o ofício alterando a situação da solicitação, encerrando a análise.
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Analise_Manual_Inviabilidade_Solicitacao_Janela.png
       :alt: SAIP Interno Acompanhar Análisar Solicitações
@@ -90,13 +90,13 @@ Selecionando a opção **Inviabilidade da Solicitação**, o sistema apresenta a
 Devolver para Correção
 -----------------------------
 
-Selecionando a opção **Devolver para Correção**, o sistema apresenta a janela **Motivo da Correção** para preenchimento do Motivo.
+Ao acionar o botão **Devolver para Correção**, o campo **Motivo da Correção** é apresentado para que seja informado o referido motivo com o intuito de que sejam feitos ajustes na solicitação.
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Analise_Manual_Devolver_Correcao.png
     :alt: SAIP Interno Acompanhar Análisar Solicitações
 
 .. note:: 
-      Ao selecionar a opção "Confirmar Correção", o sistema encaminha a solicitação para o solicitante, altera a situação do registro e então é encerrada a análise.
+   Ao acionar o botão **Confirmar Correção**, o sistema encaminha a solicitação para o solicitante alterando a situação da solicitação, encerrando a análise.
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Analise_Manual_Devolver_Correcao_Janela.png
     :alt: SAIP Interno Acompanhar Análisar Solicitações
@@ -104,25 +104,25 @@ Selecionando a opção **Devolver para Correção**, o sistema apresenta a janel
 Gerar Parecer
 ----------------
 
-Selecionando a opção **Gerar Parecer**, o sistema atualiza a página **Análise Manual**, com os botões **Voltar**, **Salvar** e **Confirmar Parecer**. E as informações como Motivo para Análise Manual, Unidade Responsável, Interessado, FCA e as abas de Parecer.
+Ao selecionar a opção **Gerar Parecer**, o sistema atualiza a tela de **Análise Manual**, onde são apresentados os campos: **Motivo para Análise Manual**, **Unidade Responsável**, **Interessado** e as informações preenchidas na Solicitação, na aba **FCA**, as abas de Parecer, e as ações: **Voltar**, **Salvar** e **Confirmar Parecer**.
 
-Em **Parecer - Bem Arqueologico**, contém as informações conforme análise, como Nível (Sugerido IN), Nível correto conforme análise, podendo ser, Não se aplica, Nível I, Nível II, Nível III e Nível IV.
+No item **Parecer - Bem Arqueologico**, são apresentadas as informações conforme a análise, e os campos: **Nível (Sugerido IN)** e **Nível correto conforme análise**, este último com as opções: **Não se aplica**, **Nível I**, **Nível II**, **Nível III** e **Nível IV**.
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Analise_Manual_Gerar_Parecer_Analise_Parecer_Bem_Arqueologico.png
     :alt: SAIP Interno Acompanhar Análisar Solicitações
 
-Em **Parecer - Bem Imaterial**, contém as informações conforme análise, como Nome do Empreendimento, Impacto conforme FCA, Impacto correto conforme análise, podendo ser, Sem Impacto, Com Impacto(TCE), Com Impacto(Relatório) e Com Impacto(Relatório e TCE).
+No item **Parecer - Bem Imaterial**, são apresentadas as informações conforme a análise, e os campos: **Nível (Sugerido IN)** e **Nível correto conforme análise**, este último com as opções: **Sem Impacto**, **Com Impacto (TCE)**, **Com Impacto (Relatório)** e **Com Impacto (Relatório e TCE)**.
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Analise_Manual_Gerar_Parecer_Analise_Parecer_Bem_Imaterial.png
     :alt: SAIP Interno Acompanhar Análisar Solicitações
 
-Em **Parecer - Bem Material**, contém as informações conforme análise, como Impacto conforme FCA, Impacto correto conforme análise, podendo ser,Com Impacto ou Sem Impacto.
+No item **Parecer - Bem Material**, são apresentadas as informações conforme a análise, e os campos: **Nível (Sugerido IN)** e **Nível correto conforme análise**, este último com as opções: **Sem Impacto**, **Com Impacto**.
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Analise_Manual_Gerar_Parecer_Analise_Parecer_Bem_Material.png
    :alt: SAIP Interno Acompanhar Análisar Solicitações
 
 .. note::
-   Acionando o botão **Voltar** ele faz retornar para a página anterior, **Salvar** guarda as informações inseridas/editadas e apresenta um alerta de que os dados foram salvos com sucesso. 
+   Os botões **Voltar** e **Salvar** também são apresentados, permitindo o retorno para a tela anterior ou para a gravação das informações, respectivamente. 
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Analise_Manual_Gerar_Parecer_Analise_botoes.png
    :alt: SAIP Interno Acompanhar Análisar Solicitações
@@ -131,7 +131,7 @@ Em **Parecer - Bem Material**, contém as informações conforme análise, como 
       :alt: SAIP Interno Acompanhar Análisar Solicitações
 
 .. note::
-  **Confirmar Parecer**, realiza a confirmação da geração do parecer, gera o parecer, atualiza a situação do registro e redireciona para a página **Analisar Solicitações** .
+   Ao selecionar a opção **Confirmar Parecer**, o sistema confirma a geração do parecer atualizando a situação do registro, redirecionando para a página **Analisar Solicitações**.
 
 .. image:: ../images/SAIP_Interno_Analisar_Solicitacoes_Pesquisar_Solicitacao_Analise_Manual_Gerar_Parecer_Analise_botoes.png
    :alt: SAIP Interno Acompanhar Análisar Solicitações

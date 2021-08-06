@@ -4,7 +4,7 @@ Listar Solicitações
 .. meta::
  :description: Apresentação do Listar Solicitações.
   
-Para acessar, as solicitações já realizadas no sistema clicar na opção **Listar Solicitações** no menu lateral esquerdo.
+Para acessar as solicitações já realizadas no sistema, o sistema disponibiliza a opção **Listar Solicitações**, no menu lateral esquerdo.
 
 .. image:: ../images/SAIP_Interno_Listar_Solicitacoes.png 
     :alt: SAIP Interno Listar Solicitações
@@ -12,37 +12,37 @@ Para acessar, as solicitações já realizadas no sistema clicar na opção **Li
 Pesquisar Solicitação
 ----------------------
 
-Em **Pesquisar Solicitação**, na parte superior se encontram os filtros de pesquisa como Solicitação, Unidade, Análise e Data de Abertura.
+Na parte superior do **Pesquisar Solicitação** são disponibilizados os filtros de pesquisa: **Solicitação**, **Unidade**, **Análise** e **Data de Abertura**, e ainda a opção de ação: **Pesquisar**.
 
 .. image:: ../images/SAIP_Interno_Listar_Solicitacoes_Filtros.png
      :alt: SAIP Interno Listar Solicitações Filtros
 
 .. note::
-   Sempre que preencher os filtros, clique no botão Pesquisar, para que a ação de filtrar seja executada.
+     Para que a ação de pesquisa seja executada, faz-se necessário que se preencha os filtros disponíveis e acione o botão **Pesquisar**.
 
 .. image:: ../images/SAIP_Interno_Listar_Solicitacoes_Filtros_Pesquisar.png
      :alt: SAIP Interno Listar Solicitações Pesquisar
 
 
-Em **Pesquisar Solicitação**, na parte inferior encontram-se os registros totais de solicitações ou conforme os filtros realizados. As colunas apresentadas no resultado são: Solicitação, Unidade, Análise, Data da Abertura, Situação e Ações.
+Como resultado do **Pesquisar Solicitação** são apresentadas as colunas: Solicitação, **Unidade**, **Análise**, **Data de Abertura**, **Situação** e **Ações**, e a quantidade total de registros.
 
 .. image:: ../images/SAIP_Interno_Listar_Solicitacoes_Resultado.png
      :alt: SAIP Interno Listar Solicitações Resultado
 
 .. note::
-    O sistema permite que você ordene as colunas por ordem crescente ou decrescente, conforme o clique nos títulos de cada coluna.
+    O sistema permite que haja a ordenação das colunas na forma crescente ou decrescente, conforme o clique nos títulos de cada coluna.
 
 .. image:: ../images/SAIP_Interno_Listar_Solicitacoes_Resultado_Ordenar.png
      :alt: SAIP Interno Listar Solicitações Ordenar
 
 .. note::
-    Na lista de solicitações, o sistema apresenta a paginação. É possível selecionar a página desejada e nas extremidades, há a opção de selecionar os ícones de página anterior e próxima página.
+     A lista de resultado do **Pesquisar Solicitação** apresenta paginação de 10 em 10 registros, as páginas por meio das quais o usuário pode navegar entre elas, e as opções de navegação para as próxima página e página anterior.
 
 .. image:: ../images/SAIP_Interno_Listar_Solicitacoes_Resultado_Paginacao.png
      :alt: SAIP Interno Listar Solicitações Paginação
 
 
-No resultado da pesquisa, há as ações de **Visualizar Solicitação** e **Detalhar Solicitação**, respectivamente.
+Como ações disponíveis na lista de resultado do **Pesquisar Solicitação**, tem-se: **Visualizar Solicitação** e **Detalhar Solicitação**.
 
 .. image:: ../images/SAIP_Interno_Listar_Solicitacoes_Resultado_Acoes.png
      :alt: SAIP Interno Listar Solicitações Açoes
@@ -51,7 +51,7 @@ No resultado da pesquisa, há as ações de **Visualizar Solicitação** e **Det
 Visualizar Solicitação
 ----------------------- 
 
-Ao acionar o botão **Visualizar Solicitação**, o sistema apresenta uma janela com os dados da solicitação. Caso deseje fechar a janela, clique no botão Fechar.
+Ao acionar o botão **Visualizar Solicitação**, o sistema apresenta uma tela contendo os dados da solicitação. O botão **Fechar** é disponibilizado, permitindo o fechamento da tela de visualização.
 
 .. image:: ../images/SAIP_Interno_Listar_Solicitacoes_Resultado_Acoes_Visualizar.png
      :alt: SAIP Interno Listar Solicitações Visualizar
@@ -60,15 +60,14 @@ Ao acionar o botão **Visualizar Solicitação**, o sistema apresenta uma janela
 Detalhar Solicitação
 ---------------------  
 
-Ao acionar o botão **Detalhar Solicitação**, o sistema apresenta uma janela com o número da solicitação, número do SEI, a aba **Detalhamento** onde se encontra os arquivos anexados ou gerados pelo sistema para a solicitação, a aba **Histórico**, onde fica registrado todo o processo da solicitação e o botão **Fechar**, respectivamente.
+Ao acionar o botão **Detalhar Solicitação**, o sistema apresenta uma tela contendo o número da solicitação, número do SEI, a aba **Detalhamento** onde constam os arquivos anexados ou gerados pelo sistema para a solicitação, e a aba **Histórico**. O botão **Fechar** é disponibilizado, permitindo o fechamento da tela de detalhamento.
 
 .. image:: ../images/SAIP_Interno_Listar_Solicitacoes_Resultado_Acoes_Detalhar.png
     :alt: SAIP Interno Listar Solicitações Detalhar
 
 
 .. note::
-   Ao acionar aba **Histórico**, é apresentado todo o processo da solicitação. O botão **Fechar**, faz com que a janela com as informações seja fechada.
+     Ao acionar o botão **Histórico**, o sistema apresenta uma tela contendo todo o processo da solicitação. O botão **Fechar** é disponibilizado, permitindo o fechamento da tela de histórico.
 
 .. image:: ../images/SAIP_Interno_Listar_Solicitacoes_Resultado_Acoes_Detalhar_Aba.png
     :alt: SAIP Interno Listar Solicitações Aba
-

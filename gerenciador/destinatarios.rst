@@ -4,34 +4,33 @@ Destinatários
 .. meta::
    :description: Apresentação do  Gerenciador - Usuários.
   
-Para acessar o **Gerenciador de Destinatários de Órgãos Ambientais** do sistema, clique no menu **Gerenciador** no menu lateral esquerdo e então selecione a opção **Destinatários** no submenu lateral esquerdo, onde irá permitir gerenciar os Destinatários cadastrados.    
+Para acessar o **Gerenciador de Órgãos Ambientais Destinatários**, o sistema disponibiliza a opção **Gerenciador**, no menu lateral esquerdo, e a opção **Destinatários**, no submenu.
      
 .. image:: ../images/SAIP_Interno_Gerenciador_Destinatario.png
         :alt: SAIP Interno Gereciador Destinatários
      
-Em **Pesquisar Órgãos Ambientais Destinatários**, na parte superior se encontram os filtros de pesquisa como Unidade, Esfera do Licenciamento Ambiental, Situação, Descrição do Destinatário e E-mail. E o botão **Novo Órgão Ambiental Destinatário**, para cadastro de novos Destinatários.
+Na parte superior do **Pesquisar Órgãos Ambientais Destinatários** são disponibilizados os filtros de pesquisa: **Unidade**, **Esfera do Licenciamento Ambiental**, **Situação**, **Descrição do Destinatário** e **E-mail**, e ainda as opções de ação: **Novo Órgão Ambiental Destinatário**, **Limpar** e **Pesquisar**.
      
 .. image:: ../images/SAIP_Interno_Gerenciador_Destinatarios_Pesquisar_Destinatario.png
      :alt: SAIP Interno Gerenciador Destinatários Filtros
 .. note::
-     Sempre que preencher os filtros clique no botão **Pesquisar**, para que a ação seja executada. Acionando **Limpar** os filtros são removidos.
+     Para que a ação de pesquisa seja executada, faz-se necessário que se preencha os filtros disponíveis e acione o botão **Pesquisar**; para que os fitros sejam removidos faz-se necessário que se acione o botão **Limpar**.
      
 .. image:: ../images/SAIP_Interno_Gerenciador_Destinatario_Pesquisar_Limpar.png
      :alt: SAIP Interno Gerenciador Destinatários Pesquisar
      
-Em **Pesquisar Órgãos Ambientais Destinatários** na parte inferior, encontram-se os registros totais de Destinatários ou o resultado da pesquisa conforme os filtros informados. As colunas apresentadas, são, Unidade, Esfera do Licenciamento Ambiental, E-mail, Descrição, Situação e Ações.
+Como resultado do **Pesquisar Órgãos Ambientais Destinatários** são apresentadas as colunas: **Unidade**, **Esfera do Licenciamento Ambiental**, **E-mail**, **Descrição**, **Situação** e **Ações**, e a quantidade total de registros.
                            
 .. image:: ../images/SAIP_Interno_Gerenciador_Destinatarios_Pesquisar_Resultado.png
      :alt: SAIP Interno Gerenciador Destinatários Resultado
      
 .. note::
-     O sistema permite que você ordene as colunas por ordem crescente ou decrescente conforme se clica nos títulos de cada coluna.
+     O sistema permite que haja a ordenação das colunas na forma crescente ou decrescente conforme se clica nos títulos de cada coluna.
                          
 .. image:: ../images/SAIP_Interno_Gerenciador_Destinatarios_Pesquisar_Ordenar.png
       :alt: SAIP Interno Gerenciador Destinatários Ordenar
      
-     
-No resultado da pesquisa, há as ações de **Alterar Órgão Ambiental Destinatário** e **Excluir Órgão Ambiental Destinatário**, respectivamente.
+Como ações disponíveis na lista de resultado do **Pesquisar Órgãos Ambientais Destinatários**, tem-se: **Editar Órgão Ambiental Destinatário** e **Excluir Órgão Ambiental Destinatário**.
      
 .. image:: ../images/SAIP_Interno_Gerenciador_Destinatarios_Acoes.png
       :alt: SAIP Interno Gerenciador Destinatários Ações
@@ -39,10 +38,10 @@ No resultado da pesquisa, há as ações de **Alterar Órgão Ambiental Destinat
 Novo Órgão Ambiental Destinatário
 -----------------------------------
      
-Ao acionar o botão **Novo Órgão Ambiental Destinatário**, é apresentado a tela para incluir um novo Órgão Ambiental Destinatário, contendo os campos, Unidade eEsfera do Licenciamento Ambiental, E-mail e Texto do Destinatário.
+Ao acionar o botão **Nova Órgão Ambiental Destinatário**, o sistema apresenta uma tela para a inclusão dos dados de um novo órgão ambiental destinatário.
      
 .. note:: 
-     Após inserir os dados do Órgão Ambiental Destinatário, é necessário acionar o botão **Salvar** para que seja cadastrado. O botão **Cancelar** retorna para a tela de Órgãos Ambientais Destinatários.
+     Os botões **Cancelar** e **Salvar** são disponibilizados, permitindo o cancelamento ou a gravação da inclusão, respectivamente.
      
 .. image:: ../images/SAIP_Interno_Gerenciador_Destinatarios_Cadastrar_Destinatario.png
      :alt: SAIP Interno Gerenciador Destinatários Cadastrar Destinatário
@@ -50,10 +49,10 @@ Ao acionar o botão **Novo Órgão Ambiental Destinatário**, é apresentado a t
 Alterar Órgão Ambiental Destinatário
 -------------------------------------
      
-Ao acionar o botão **Editar Órgão Ambiental Destinatário**, é apresentado a tela para alterar os dados de um Órgão Ambiental Destinatário, com os campos Nome e Descrição, e os botões **Cancelar**, onde retorna para a tela de **Órgãos Ambientais Destinatários**, sem alterações, e **Salvar**, onde salva as alterações realizadas e retorna para a tela de **Órgãos Ambientais Destinatários**.
+Ao acionar o botão **Editar Órgão Ambiental Destinatário**, o sistema apresenta uma tela para a alteração dos dados do órgão ambiental destinatário. Os botões **Cancelar** e **Alterar** são disponibilizados, permitindo o cancelamento ou a gravação da alteração, respectivamente.
      
 .. note::
-        Tem-se o campo **Situação**, onde se tem a opção de ativar ou inativar o Destinatário cadastrado. 
+     No campo **Situação**, é permitido ativar ou inativar um Órgão Ambiental Destinatário já cadastrado.
      
 .. image:: ../images/SAIP_Interno_Gerenciador_Destinatarios_Acoes_Editar_Destinatario.png
            :alt: SAIP Interno Gerenciador Editar Destinatário
@@ -61,7 +60,7 @@ Ao acionar o botão **Editar Órgão Ambiental Destinatário**, é apresentado a
 Excluir Órgão Ambiental Destinatário
 ------------------------------------
      
-Ao acionar o botão **Excluir Órgão Ambiental Destinatário**, o sistema apresenta uma janela de **Exclusão de Órgão Ambiental Destinatário**, com os botões **Cancelar**, onde a operação de exclusão é cancelada e **OK**, onde é confirmada a exclusão do Destinatário.
+Ao acionar o botão **Excluir Órgão Ambiental Destinatário**, o sistema apresenta uma tela para a confirmação da exclusão. Os botões **Cancelar** e **Ok** são disponibilizados, permitindo o cancelamento ou a confirmação da exclusão, respectivamente.
 
 .. image:: ../images/SAIP_Interno_Gerenciador_Destinatarios_Acoes_Excluir_Destinatario.png
      :alt: SAIP Interno Gerenciador Excluir Destinatário  
